@@ -41,15 +41,32 @@ main{
    border-bottom:0;
 }
 /* What Our Client Say  */
-.carousel-img{
-   
-  
-}
+
 .profile-img{
    height: 22%;
    margin-top: 12%;
 }
+/* Contact With Us  */
+.contract-img{
+   height: 50px !important;
+   width: 50px!important;
+}
+/* Professional lawyer  */
+.lawyer{
+   background-color: #B68C5A;
+}
 
+ /* footer */
+ .footer{
+   padding-left: 8%;
+   padding-right: 8%;
+ }
+ .send-btn{
+   position: relative;
+   left: -20%;
+  background-color: #B68C5A;
+
+ }
 
 @media screen and (min-width: 576px) and (max-width: 767px) {
    .heading{
