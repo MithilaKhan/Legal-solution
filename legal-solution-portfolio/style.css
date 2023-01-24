@@ -1,0 +1,61 @@
+header{
+   margin-left: 14%;
+   margin-right: 14%;
+   
+}
+main{
+   margin-left: 14%;
+   margin-right: 14%;
+}
+
+/*  btn Free Consultation  */
+.free-btn{
+   background-color: #B68C5A;
+   
+}
+/* starting of banner section  */
+
+
+.heading{
+   padding-top: 5%;
+}
+
+.search-btn{
+   margin-left: 30%;
+}
+/* The Legal Practice Area  */
+.legal-img{
+   height: 90px !important;
+   width: 90px !important;
+}
+.legal-title1{
+   border: 0;
+   border-bottom: 2px solid #E7E7E7;
+}
+.legal-title2{
+   border: 2px solid #E7E7E7;
+}
+.legal-title3{
+   border: 2px solid #E7E7E7;
+   border-top: 0;
+   border-bottom:0;
+}
+/* What Our Client Say  */
+.carousel-img{
+   
+  
+}
+.profile-img{
+   height: 22%;
+   margin-top: 14%;
+}
+
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+   .heading{
+      font-size: 25px;
+      padding-top: 0;
+     
+   }
+   
+}
